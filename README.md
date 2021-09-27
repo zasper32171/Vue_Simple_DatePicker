@@ -1,6 +1,6 @@
 # Vue Simple DatePicker
 
-[Demo] (https://zasper32171.github.io/datepicker/)
+[Demo](https://zasper32171.github.io/datepicker/)
 
 ## Project setup
 ```
@@ -16,11 +16,3 @@ npm run serve
 ```
 npm run build
 ```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
