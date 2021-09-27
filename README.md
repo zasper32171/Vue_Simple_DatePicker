@@ -1,4 +1,6 @@
-# amazing-talker_fe_test
+# Vue Simple DatePicker
+
+[Demo] (https://zasper32171.github.io/datepicker/)
 
 ## Project setup
 ```
